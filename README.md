@@ -1,1 +1,1 @@
-# itmed361-lab6
+# ITMD361 Lab 6
